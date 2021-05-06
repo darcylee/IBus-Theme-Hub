@@ -33,6 +33,10 @@
 
 ![](仿微软Microsoft/img/eg-light.png)
 
+**Numix**:
+
+![](仿微软Microsoft/img/Orange-Dark-Numix.png)
+
 ### 目录
 
 - [科技蓝 深色](仿微软Microsoft/Blue-Dark-科技蓝-深色-1A5FB4.css) <font color=#1A5FB4>#1A5FB4</font>
